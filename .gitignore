@@ -1,0 +1,8 @@
+.DS_Store
+*.ovpn
+*.pem
+*.p12
+*.zip
+profileinfo.txt
+vpn-gateway
+.env
